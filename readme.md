@@ -18,3 +18,9 @@ Install the required Python packages by running:
 ```bash
 pip install openai
 # Add any other necessary packages here
+```
+
+Create env file that contains the following
+```bash
+OPENAI_API_KEY = "sk- ..."
+```
